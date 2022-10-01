@@ -32,7 +32,8 @@ Kosten:
 Bei den meisten Banken wirst du dafür physisch an den Schalter gehen müssen, um deine neue ID vorzuweisen.
 
 Kosten:
-- Abhängig von deiner Bank (ca. CHF 0.- bis CHF 20.-)
+- Die Kosten für die Neuaustellung der Karten sind abhängig von deiner Bank (ca. CHF 0.- bis CHF 20.-)
+  - Alternativ kannst du auch warten bis deine momentanen Karten auslaufen.
 
 ## Gesundheit
 Folgende Aufzählung ist nicht abschliessend, z.B:
