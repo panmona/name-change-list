@@ -62,3 +62,4 @@ Da dies eher komisch auf zukünftige Gastgeber wirken könnte, würde ich empfeh
 Du kannst über dein Profil den Namen anpassen lassen durch den Upload deiner neuen ID.
 
 **Achtung** falls du dein Konto vor deinem 18ten Geburtstag eröffnet hast, hast du ihre Nutzungsbestimmungen verletzt und dein Konto wird nach dem Upload deiner ID gesperrt. Falls dies also der Fall sein sollte, löscht du am einfachsten dein jetziges Konto und eröffnest dann ein neues Konto.
+Ansonsten ist es danach nicht mehr möglich den Account zu löschen oder deine Email zu ändern (auch nicht über den Support).
