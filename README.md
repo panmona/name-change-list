@@ -38,11 +38,11 @@ Kosten:
 ## Gesundheit
 Folgende Aufzählung ist nicht abschliessend, z.B:
 - Krankenkasse
-- Augenarzt
-- Zahnarzt
-- Hausarzt
+- Augenärzt*in
+- Zahnärzt*in
+- Hausärzt*in
 - Kieferorthopädie
-- Optiker
+- Optiker*in
 - ...
 
 ## Versicherungen
