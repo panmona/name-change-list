@@ -107,6 +107,11 @@ Kosten:
 ## Vereine
 Dazu reicht jeweils ein einfaches Email mit der Bitte den Namen entsprechend anzupassen.
 
+## Abonnemente
+- Handy Abo
+- Zeitschriften
+- ...
+
 ## Andere Zertifikate / Diplome
 
 ### PADI
@@ -116,6 +121,7 @@ Sobald dies erledigt ist, kannst du eine neue Karte bestellen: https://apps.padi
 
 Kosten: 
 - CHF 51.-
+
 
 ## Online, Computer etc.
 Siehe dazu [Software.md](Software.md)
