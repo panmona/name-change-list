@@ -110,6 +110,7 @@ Dazu reicht jeweils ein einfaches Email mit der Bitte den Namen entsprechend anz
 ## Abonnemente
 - Handy Abo
 - Zeitschriften
+- Bibliotheken
 - ...
 
 ## Andere Zertifikate / Diplome
