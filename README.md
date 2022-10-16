@@ -71,7 +71,7 @@ Am Besten fragst du bei der Schule nach, an der du die BMS/Matura erworben hast.
 Kosten:
 - Es sollten keine Kosten anfallen
 
-## EFZ
+### EFZ
 Im Kanton Zürich ist dafür das Mittelschul- und Berufsbildungsamt zuständig, denen du eine Email schreiben kannst.
 Bei anderen Kantonen (Ergänzungen sind erwünscht) würde ich empfehlen, bei deiner Berufsschule nachzufragen. 
 
@@ -81,8 +81,8 @@ Das Duplikat ersetzt den alten Ausweis zu 100%, ausser dass der Vermerk "Duplika
 Kosten:
 - Es sollten keine Kosten anfallen
 
-## Sprachdiplome
-### Cambridge English
+### Sprachdiplome
+#### Cambridge English
 Für die Änderung des DELF DALF Diploms musst du dein [Prüfungszentrum kontaktieren](https://www.cambridgeenglish.org/find-a-centre/find-an-exam-centre/?location=Switzerland).
 
 Falls du nicht mehr weisst, wo du die Prüfung absolviert hast, ist auf dem Diplom eine Referenznummer im folgenden Format abgedruckt: "XXXCHYYYZZZZ" (bspw: 018CH9991234).
@@ -96,7 +96,7 @@ Dieses ersetzt das Zertifikat jedoch vollumfänglich und kann als offizieller Na
 Kosten:
 - Es sollten keine Kosten anfallen
 
-### DELF DALF
+#### DELF DALF
 Für die Änderung des DELF DALF Diploms musst du dein [Prüfungszentrum kontaktieren](https://www.delfdalf.ch/de/pruefungszentren). 
 Falls du nicht mehr weisst, wo du die Prüfung absolviert hast, ist auf der Rückseite deines DELF DALF Diploms der Name des Prüfungszentrums vermerkt.
 Achtung: Es kann **6-8 Monate** dauern bis du das neue Zertifikat erhalten wirst. 
@@ -113,7 +113,7 @@ Dazu reicht jeweils ein einfaches Email mit der Bitte den Namen entsprechend anz
 - Bibliotheken
 - ...
 
-## Andere Zertifikate / Diplome
+## Weitere Zertifikate / Diplome
 
 ### PADI
 Um eine neue Karte zu erhalten musst du einen Scan deiner neuen ID hier einsenden: https://help.padi.com/hc/en-us/requests/new?ticket_form_id=360001218814
