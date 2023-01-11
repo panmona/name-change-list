@@ -38,12 +38,34 @@ Kosten:
 ## Gesundheit
 Folgende Aufzählung ist nicht abschliessend, z.B:
 - Krankenkasse
-- Augenärzt*in
-- Zahnärzt*in
-- Hausärzt*in
+- Augenärzt:in
+- Zahnärzt:in
+- Hausärzt:in
 - Kieferorthopädie
-- Optiker*in
+- Optiker:in
 - ...
+
+## Auto (Führerausweis, Fahrzeugausweis)
+Namensänderungen müssen genauso wie Adressänderungen innert zwei Wochen mitgeteilt werden. 
+Die zwei Wochen Frist gelten von dem Moment, an dem du deine neue ID/Pass hast.
+
+### Führerausweis
+Hierfür brauchst du weitere Unterlagen. Am Besten schaust du dafür auf der Website des Strassenvehrkehrsamtes deines Kantons nach. (Bspw. für den Kanton Zürich wäre dies [hier](https://www.zh.ch/de/mobilitaet/fuehrerausweis-fahren-lernen/namensaenderung-melden.html) zu finden)
+
+Die Unterlagen sind z.B. Original Führerausweis, ein neues Passfoto, Kopie ID/Pass, Formular für die neue Unterschrift, Formular zum Umtausch.
+
+Kosten: 
+- CHF 35.-
+
+### Fahrzeugausweis
+Falls du ein Fahrzeug auf deinen Namen eingelöst hast, musst du dort deinen Namen ändern.
+
+Hierfür brauchst du weitere Unterlagen. Am Besten schaust du dafür auf der Website des Strassenvehrkehrsamtes deines Kantons nach. (Bspw. für den Kanton Zürich wäre dies [hier](https://www.zh.ch/de/mobilitaet/fuehrerausweis-fahren-lernen/namensaenderung-melden.html) zu finden)
+
+Die Unterlagen sind z.B. Original Fahrzeugausweis, Kopie ID/Pass, Versicherungsnachweis.
+
+Kosten: 
+- CHF 15-30.-
 
 ## Versicherungen
 Bei den meisten Versicherungen ist dies nicht online anpassbar. Deshalb meldest du dich am Besten bei deinem persönlichen Kontakt / Support mit der Bestätigung der Personenstandsänderung. 
@@ -63,7 +85,7 @@ Die alten Arbeitszeugnisse sollten möglichst so angepasst werden, dass es nicht
 
 Beachte, dass du darauf ein Anrecht hast! (Art. 10, 13 BV; Art. 8 EMRK) Die Wahrheitspflicht wird dadurch nicht verletzt und dein Arbeitgeber begeht dabei auch keine Urkundenfälschung. (Art. 330a OR; Art. 251 StGB)
 
-Falls es dabei Probleme geben sollte oder für ausführlichere Infos siehe dazu [LGBTI meine Rechte](https://www.tgns.ch/wp-content/uploads/2022/02/220125_LGBTI_Meine_Rechte-1.pdf) (Frage B18, S. 60-61) & [transwelcome](https://www.transwelcome.ch/de/coming-out/rechtliche-grundlagen/)
+Falls es dabei Probleme geben sollte oder für ausführlichere Infos siehe dazu [LGBTI meine Rechte](https://www.tgns.ch/wp-content/uploads/2022/02/220125_LGBTI_Meine_Rechte-1.pdf) (Frage B18, S. 60-61) & [transwelcome](https://www.transwelcome.ch/de/coming-out/rechtliche-grundlagen/).
 
 ### BMS / Matura
 Am Besten fragst du bei der Schule nach, an der du die BMS/Matura erworben hast.
