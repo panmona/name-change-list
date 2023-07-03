@@ -109,7 +109,7 @@ Kosten:
 
 ### Sprachdiplome
 #### Cambridge English
-Für die Änderung des DELF DALF Diploms musst du dein [Prüfungszentrum kontaktieren](https://www.cambridgeenglish.org/find-a-centre/find-an-exam-centre/?location=Switzerland).
+Für die Änderung des Cambridge Diploms musst du dein [Prüfungszentrum kontaktieren](https://www.cambridgeenglish.org/find-a-centre/find-an-exam-centre/?location=Switzerland).
 
 Falls du nicht mehr weisst, wo du die Prüfung absolviert hast, ist auf dem Diplom eine Referenznummer im folgenden Format abgedruckt: "XXXCHYYYZZZZ" (bspw: 018CH9991234).
 Der Teil "CHYYY" identifiziert die Nummer deines Prüfungszentrums, welches du dann auf [dieser Seite identifizieren kannst](https://www.cambridgeenglish.org/find-a-centre/find-an-exam-centre/?location=Switzerland).
