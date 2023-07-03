@@ -67,6 +67,10 @@ Die Unterlagen sind z.B. Original Fahrzeugausweis, Kopie ID/Pass, Versicherungsn
 Kosten: 
 - CHF 15-30.-
 
+## Wohnung
+- Mietvertrag
+- Briefkasten-/Türschild
+
 ## Versicherungen
 Bei den meisten Versicherungen ist dies nicht online anpassbar. Deshalb meldest du dich am Besten bei deinem persönlichen Kontakt / Support mit der Bestätigung der Personenstandsänderung. 
 
