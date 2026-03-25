@@ -19,7 +19,7 @@ Alle weiteren nötigen Infos sind in der [FAQ](https://www.bj.admin.ch/bj/de/hom
 Kosten:
 - CHF 75.- für die Erklärung
 - CHF 30.- für die Bestätigung
-  - Die Bestätigung ist keine Notwendigkeit, aber erleichtert die nachfolgenden Änderungen. Alternativ kann auch jeweils eine Kopie der neuen ID mitgesendet werden.
+  - Die Bestätigung ist keine Notwendigkeit, aber erleichtert die nachfolgenden Änderungen. Alternativ kann auch jeweils eine Kopie der neuen ID mitgesendet werden. Einige Stellen (z.B. Banken) verlangen aber explizit auch eine Bestätigung.
 
 ### ID/Pass
 [ID/Pass beantragen](https://www.fedpol.admin.ch/fedpol/de/home/pass---identitaetskarte/pass/pass-id-beantragen.html)
@@ -31,6 +31,14 @@ Kosten:
 ## Banken
 Bei den meisten Banken wirst du dafür physisch an den Schalter gehen müssen, um deine neue ID vorzuweisen.
 
+> [!CAUTION]
+> Bei Postfinance, evtl. aber auch anderswo: Falls du Vollmachten über andere
+> Konten hast (z.B. von Eltern), erhalten diese ggf. ohne weitere Rückfrage per
+> Brief einen neuen Vollmachtsantrag mit deinem neuen Namen. Die Namensänderung
+> verzögert sich, bis dieser eintrifft. Wenn die Vollmacht nicht dringend
+> benötigt wird, ergibt es evtl. Sinn, diese erst löschen zu lassen und nach der
+> Namensänderung (und ggf. Outing) neu auszustellen.
+
 Kosten:
 - Die Kosten für die Neuaustellung der Karten sind abhängig von deiner Bank (ca. CHF 0.- bis CHF 20.-)
   - Alternativ kannst du auch warten bis deine momentanen Karten auslaufen.
@@ -38,9 +46,11 @@ Kosten:
 ## Gesundheit
 Folgende Aufzählung ist nicht abschliessend, z.B:
 - Krankenkasse
+- Apotheken
 - Augenärzt:in
 - Zahnärzt:in
 - Hausärzt:in
+- Medgate-App (neue Krankenkassen-Karte einscannen unter Konto > Profil auswählen > "+" unter "Versicherung")
 - Kieferorthopädie
 - Optiker:in
 - ...
@@ -80,8 +90,10 @@ Die Änderung bei den Sozialversicherungen übernimmt dein Arbeitgeber für dich
 Entweder gehst du mit deiner neuen ID an den Schalter oder du machst die Anpassung [online](https://www.sbb.ch/de/hilfe-und-kontakt/meine-abos/adresse-name-aendern/formular-adressaenderung.html).
 Siehe dazu die [FAQ](https://www.sbb.ch/de/hilfe-und-kontakt/meine-abos/adresse-name-aendern.html#anchor4) der SBB.
 
+Der SwissPass in der SBB-App wird erst nach 30 Tagen bzw. beim ersten Kontroll-Scan aktualisiert. Das Kontrollpersonal kann diesen Scan auch ausserhalb einer Fahrt (z.B. wenn du auf dem Perron lieb nachfragst) durchführen. Danach in der SBB-App den Swisspass trennen und neu verbinden.
+
 Kosten:
-- CHF 30.- aber je nach Schalter ist dies gratis
+- CHF 30.- aber je nach Schalter ist dies gratis. Die Anpassung online ist kostenlos.
 
 ## Bewerbungsdossier
 ### Arbeitszeugnisse
