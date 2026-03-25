@@ -32,11 +32,11 @@ Kosten:
 Bei den meisten Banken wirst du dafür physisch an den Schalter gehen müssen, um deine neue ID vorzuweisen.
 
 > [!CAUTION]
-> Bei Postfinance, ev. aber auch anderswo: Falls du Vollmachten über andere
+> Bei Postfinance, evtl. aber auch anderswo: Falls du Vollmachten über andere
 > Konten hast (z.B. von Eltern), erhalten diese ggf. ohne weitere Rückfrage per
 > Brief einen neuen Vollmachtsantrag mit deinem neuen Namen. Die Namensänderung
 > verzögert sich, bis dieser eintrifft. Wenn die Vollmacht nicht dringend
-> benötigt wird, ergibt es ev. Sinn, diese erst löschen zu lassen und nach der
+> benötigt wird, ergibt es evtl. Sinn, diese erst löschen zu lassen und nach der
 > Namensänderung (und ggf. Outing) neu auszustellen.
 
 Kosten:
@@ -46,11 +46,11 @@ Kosten:
 ## Gesundheit
 Folgende Aufzählung ist nicht abschliessend, z.B:
 - Krankenkasse
-- Medgate-App (neue Krankenkassen-Karte einscannen unter Konto > Profil auswählen > "+" unter "Versicherung")
 - Apotheken
 - Augenärzt:in
 - Zahnärzt:in
 - Hausärzt:in
+- Medgate-App (neue Krankenkassen-Karte einscannen unter Konto > Profil auswählen > "+" unter "Versicherung")
 - Kieferorthopädie
 - Optiker:in
 - ...
